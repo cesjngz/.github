@@ -1,8 +1,14 @@
 <div align="center">
+<img src="logo-azul.png" alt="CESJN" width="84" />
 
-# Comunidade Evangélica Senhor Justiça Nossa (CESJN)
+# Comunidade Evangélica Senhor Justiça Nossa
+### CESJN
 
-Uma família de fé em Guaianases, São Paulo. Venha como você está — temos um lugar guardado para você.
+*Uma família de fé em Guaianases, São Paulo. Venha como você está — temos um lugar guardado para você.*
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40CE.SJN-244368?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/CE.SJN)
+[![Facebook](https://img.shields.io/badge/Facebook-CESJN-244368?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/CESJN)
+[![YouTube](https://img.shields.io/badge/YouTube-%40CESJN-244368?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CESJN)
 
 </div>
 
@@ -13,7 +19,7 @@ Uma família de fé em Guaianases, São Paulo. Venha como você está — temos 
 A CESJN é uma comunidade evangélica localizada no bairro de Guaianases, na zona leste de São Paulo.
 
 📍 Rua Salvador Gianetti, 18 — Guaianases, São Paulo, SP
-🌐 [Site oficial](#) <!-- adicionar URL quando o site estiver no ar -->
+🌐 Site oficial — _em breve_
 
 ## Nossos projetos
 
@@ -21,19 +27,8 @@ A CESJN é uma comunidade evangélica localizada no bairro de Guaianases, na zon
 |---|---|
 | [cesjn-web](https://github.com/cesjngz/cesjn-web) | Site institucional — hero, páginas de conteúdo, notícias, eventos, equipe e painel administrativo (CMS) |
 
-## Redes sociais
-
-<!--
-  Os links abaixo ainda não foram confirmados — ver placeholders em src/config/site.ts do cesjn-web.
-  Preencher com os handles reais antes de publicar.
--->
-- Instagram: _a confirmar_
-- Facebook: _a confirmar_
-- YouTube: _a confirmar_
-
 ---
 
 <div align="center">
 <sub>Comunidade Evangélica Senhor Justiça Nossa · Guaianases, São Paulo</sub>
 </div>
-
